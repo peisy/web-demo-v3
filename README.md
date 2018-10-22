@@ -57,7 +57,7 @@
 
 管理台中用到了大量的第三方库和工具，列表如下<br>
 
-序号   | 名称1           | 用途       
+序号   | 名称           | 用途       
 ----- | -------------  | --------- 
 1     | [Jquery](http://jquery.com/)                                                      | DOM操作 
 2     | [Bootstrap](http://v2.bootcss.com/)                                               | CSS样式    
