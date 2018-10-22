@@ -44,7 +44,7 @@
 开始开发前，强烈建议熟悉一下管理台中用到的各种类库、插件、工具。
 管理台的开发依赖了一些百度提供API或工具，列表如下<br>
 
-序号   | 名称           | 用途       
+序号   | 名称33          | 用途       
 ----- | -------------  | --------- 
 1     | [鹰眼Web 服务 API](http://lbsyun.baidu.com/index.php?title=yingyan/api/all)  | 数据获取      
 2     | [百度地图JSAPI](http://lbsyun.baidu.com/index.php?title=jspopular)           | 地图展示等   
